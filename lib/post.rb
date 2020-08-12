@@ -1,7 +1,7 @@
 class Post
+ attr_accessor :name 
   
   
-  def title 
     
   end 
   
