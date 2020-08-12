@@ -6,7 +6,7 @@ class Post
   end 
   
   
-  # post ---> belongs ---> author ---> has a title
+  # post ---> belongs ---> author --->the author has a title
   
   
   
