@@ -8,6 +8,6 @@ class Song
  
   
 end
-song = Song.new("hello")
- song.artist = drake
- p song.artist.name
+# song = Song.new("hello")
+# song.artist = drake
+# p song.artist.name
